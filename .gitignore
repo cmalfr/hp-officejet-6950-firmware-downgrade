@@ -1,0 +1,17 @@
+# Generated firmware material
+*.ful
+firstStage.bin
+bootloader.srec
+flash.bin
+prepared/
+work*/
+*_stage1.srec
+*_payload.bin
+*_f.bin
+
+# Python
+__pycache__/
+*.pyc
+
+# Local tooling/output
+*.log
